@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.halfdotfull.sabswipesub.Studentlogedin">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="99dp"
+        android:layout_height="45dp"
+        android:text="Operating System"
+        android:textOff="Operating System"
+        android:textOn="Operating System"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="41dp"
+        android:layout_marginRight="0dp"/>
+
+    <ToggleButton
+        android:id="@+id/toggleButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DBMS"
+        android:textOff="DBMS"
+        android:textOn="DBMS"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="38dp"/>
+
+    <ToggleButton
+        android:id="@+id/toggleButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Java"
+        android:textOff="Java"
+        android:textOn="Java"
+        tools:layout_editor_absoluteX="251dp"
+        tools:layout_editor_absoluteY="38dp"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ToggleButton
+        android:id="@+id/toggleButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C"
+        android:textOff="C"
+        android:textOn="C"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="116dp"/>
+
+    <ToggleButton
+        android:id="@+id/toggleButton5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C++"
+        android:textOff="C++"
+        android:textOn="C++"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="116dp"/>
+
+    <ToggleButton
+        android:id="@+id/toggleButton6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android"
+        android:textOff="Android"
+        android:textOn="Android"
+        tools:layout_editor_absoluteX="251dp"
+        tools:layout_editor_absoluteY="116dp"/>
+    </LinearLayout>
+</LinearLayout>

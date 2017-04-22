@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1089541093739",
+    "firebase_url": "https://love-sub.firebaseio.com",
+    "project_id": "love-sub",
+    "storage_bucket": "love-sub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089541093739:android:d8b5f4d2b8cc520f",
+        "android_client_info": {
+          "package_name": "com.halfdotfull.sabswipesub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089541093739-ut58ie4rmi09arcgn8tv1dqlp9mokts4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halfdotfull.sabswipesub",
+            "certificate_hash": "effe09eee0370946c9cde39d551aef80fda83755"
+          }
+        },
+        {
+          "client_id": "1089541093739-61vv2cv88qsrtompgt0necg1emmh5kvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2IHMf7R0UOkk2zLS_Ozb2qN_z0sMgcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089541093739-61vv2cv88qsrtompgt0necg1emmh5kvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
